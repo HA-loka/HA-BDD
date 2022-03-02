@@ -1,0 +1,22 @@
+{
+	"Application":
+	[
+		{
+			"Screen Header": "Welcome to HealthAsyst"
+		}
+	],
+	
+	"Application Data":
+	[
+		{
+			"Sample Data":
+			[
+				{
+					"Screen Header": "Welcome to Inside HealthAsyst"
+				}
+			]
+			
+		}
+	]
+	
+}
